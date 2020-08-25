@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Collections</string>
+    <string name="channelID">CHAN_EXP_COPY</string>
+    <string name="save">Save</string>
+    <string name="notification_title">Noting..</string>
+    <string name="notification_desc">Notification for copying data</string>
+    <string name="tile_label">Copy text</string>
+    <string name="tile_content_description">To copy text and append it</string>
+</resources>
